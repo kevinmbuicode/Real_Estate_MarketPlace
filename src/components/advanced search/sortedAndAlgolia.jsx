@@ -5,7 +5,7 @@ import Algolia from './algoliaSearch/algolia'
 
 const SortedAndAlgolia = () => {
   return (
-    <Box>
+    <Box sx={{ display: "flex", marginTop: 4}}>
       <Algolia/>
       <SortedSearch/>
     </Box>
