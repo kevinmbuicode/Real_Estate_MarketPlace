@@ -12,11 +12,11 @@ const Navbar = () => {
         <Typography variant='h5' fontWeight="bold">Next Home</Typography>
       </Box>
       <Box sx={{ display: "flex", justifyContent: "space-around", width: "50%", alignItems: "flex-end"}}>
-        <Typography>Routes</Typography>
-        <Typography>Routes</Typography>
-        <Typography>Routes</Typography>
-        <Typography>Routes</Typography>
-        <Typography>Routes</Typography>
+        <Typography>Users Recommended</Typography>
+        <Typography>New Property</Typography>
+        <Typography>Cheap Property</Typography>
+        <Typography>Commercial</Typography>
+        <Typography>Liked</Typography>
         <Typography>Routes</Typography>
       </Box>
       <Box sx={{ display: "flex", width: "25%", justifyContent: "flex-end", alignItems: "flex-end" }}>
