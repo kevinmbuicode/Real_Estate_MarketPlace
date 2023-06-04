@@ -6,7 +6,7 @@ import Card from '../../components/reusables/Card';
 const LandingPage = () => {
   return (
     <Box sx={{ border: "1px solid red", height: "100vw"}}>
-      <SortedAndAlgolia/>
+      {/* <SortedAndAlgolia/> */}
       <Card/>
     </Box>
   )

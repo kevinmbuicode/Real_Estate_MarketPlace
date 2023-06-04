@@ -5,7 +5,7 @@ const SortedSearch = () => {
 
   return (
     <Box sx={{ display: " flex", border: "1px solid red", width: "75%", marginLeft: 5, justifyContent: "space-between"}}>
-        <Box sx={{ display: "flex", border: "2px solid red", width: "40%", alignItems: "center"}}>
+        <Box sx={{ display: "flex", justifyContent: "flex-end", border: "2px solid red", width: "40%", alignItems: "center"}}>
             <Typography>City</Typography>
             <Typography>Surbab</Typography>
             <Typography>Rural</Typography>
